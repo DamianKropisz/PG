@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(95): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 627 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  opencv.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Release\opencv.exe
+  opencv.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Release\opencv.pdb (Full PDB)

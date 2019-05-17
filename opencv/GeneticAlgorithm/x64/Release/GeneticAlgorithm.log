@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\users\mateusz\documents\visual studio 2015\projects\opencv\geneticalgorithm\Genotype.h(162): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  70 of 3784 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GeneticAlgorithm.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Release\GeneticAlgorithm.exe
+  GeneticAlgorithm.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Release\GeneticAlgorithm.pdb (Full PDB)

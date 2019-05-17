@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\users\mateusz\documents\visual studio 2015\projects\opencv\opencv\source.cpp(108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  opencv.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Debug\opencv.exe
+  opencv.vcxproj -> D:\Users\Mateusz\Documents\Visual Studio 2015\Projects\opencv\x64\Debug\opencv.pdb (Partial PDB)
